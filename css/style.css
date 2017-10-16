@@ -25,14 +25,14 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #79c34f;
+  color: #778899;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover {
   text-decoration: none !important;
-  color: #79c34f !important;
+  color: #c7d6e5 !important;
 }
 
 p {
@@ -56,17 +56,17 @@ figure {
 
 ::-webkit-selection {
   color: #fcfcfc;
-  background: #add992;
+  background: #92a8d9;
 }
 
 ::-moz-selection {
   color: #fcfcfc;
-  background: #add992;
+  background: #92a8d9;
 }
 
 ::selection {
   color: #fcfcfc;
-  background: #add992;
+  background: #92a8d9;
 }
 
 #fh5co-header {
@@ -488,7 +488,7 @@ figure {
   background: none;
 }
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
-  color: #79c34f !important;
+  color: #3c75ad !important;
 }
 
 #fh5co-work-section,
@@ -520,7 +520,7 @@ h3.heading-section:before {
   top: 0;
   width: 30px;
   height: 2px;
-  background: #79c34f;
+  background: #778899;
 }
 
 .fh5co-grid {
@@ -1026,14 +1026,14 @@ h3.heading-section:before {
   color: rgba(255, 255, 255, 0.4);
 }
 #offcanvas-menu ul li a:hover {
-  color: #79c34f;
+  color: #778899;
 }
 #offcanvas-menu ul li > .fh5co-sub-menu {
   margin-top: 9px;
   padding-left: 20px;
 }
 #offcanvas-menu ul li.active > a {
-  color: #79c34f;
+  color: #778899;
 }
 
 .fh5co-nav-toggle {
