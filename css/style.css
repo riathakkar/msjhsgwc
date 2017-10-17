@@ -269,10 +269,10 @@ figure {
   color: #fff;
 }
 
-.sf-menu li,
+.sf-menu g,
 .sf-menu ul li,
-.sf-menu ul ul li,
-.sf-menu li:hover,
+.sf-menu ul ul gg,
+.sf-menu ggggg:hover,
 .sf-menu li.sfHover {
   background: transparent;
 }
