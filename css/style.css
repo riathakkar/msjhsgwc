@@ -25,14 +25,14 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #3959ba;
+  color: #778899;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover {
   text-decoration: none !important;
-  color: #3d8cdb !important;
+  color: #c7d6e5 !important;
 }
 
 p {
