@@ -32,7 +32,7 @@ a {
 }
 a:hover {
   text-decoration: none !important;
-  color: #2190ff !important;
+  color: #3d8cdb !important;
 }
 
 p {
@@ -269,10 +269,10 @@ figure {
   color: #fff;
 }
 
-.sf-menu g,
+.sf-menu li,
 .sf-menu ul li,
-.sf-menu ul ul gg,
-.sf-menu ggggg:hover,
+.sf-menu ul ul li,
+.sf-menu li:hover,
 .sf-menu li.sfHover {
   background: transparent;
 }
